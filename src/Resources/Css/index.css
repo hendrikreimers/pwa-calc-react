@@ -1,0 +1,15 @@
+html, body {
+  padding: 0;
+  margin: 0;
+
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 5vh;
+
+  color: #1a1b1d;
+  background: #fff;
+}
+
+#root {
+  height: 100%;
+}
